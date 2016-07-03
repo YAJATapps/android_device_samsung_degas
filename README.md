@@ -1,1 +1,1 @@
-For building TWRP for degaswifi and degas3g.
+For building TWRP for degaswifi. Also works with degas3g.
