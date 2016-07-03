@@ -1,2 +1,1 @@
-setprop sys.powerctl reboot,
-sleep 5
+busybox poweroff
