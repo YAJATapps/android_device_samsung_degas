@@ -46,7 +46,7 @@ TW_EXCLUDE_DEFAULT_USB_INIT := true
 TARGET_RECOVERY_INITRC := device/samsung/degas/init.rc
 #TW_BOARD_CUSTOM_GRAPHICS := ../../../device/samsung/degas/graphics.c
 TW_NO_REBOOT_BOOTLOADER := true
-#TW_HAS_DOWNLOAD_MODE := true
+TW_HAS_DOWNLOAD_MODE := true
 TW_EXCLUDE_SUPERSU := true
 TW_EXCLUDE_ENCRYPTED_BACKUPS := true
 
